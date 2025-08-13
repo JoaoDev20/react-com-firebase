@@ -9,14 +9,12 @@ O objetivo principal é praticar:
 - Conceitos básicos do React.
 - Integração do Firebase em um projeto front-end.
 - Autenticação de usuários (cadastro, login, permanência na sessão e logout).
-- Configuração e deploy no Firebase Hosting.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React** (Vite ou Create React App)
-- **Firebase** (Authentication, Firestore, Hosting)
+- **React** (Create React App)
+- **Firebase** (Authentication, Firestore)
 - **JavaScript (ES6+)**
-- **CSS / Tailwind** _(opcional)_
 
 ## ⚙️ Funcionalidades
 
@@ -26,7 +24,6 @@ O objetivo principal é praticar:
 - **Logout** seguro, removendo sessão do usuário.
 - Armazenamento de dados no Firestore.
 - Leitura em tempo real do banco de dados.
-- Deploy no Firebase Hosting.
 
 ## 📂 Estrutura do Projeto
 
