@@ -12,6 +12,8 @@ O objetivo principal é praticar:
 
 ## 🛠️ Tecnologias Utilizadas
 
+git
+
 - **React** (Create React App)
 - **Firebase** (Authentication, Firestore)
 - **JavaScript (ES6+)**
