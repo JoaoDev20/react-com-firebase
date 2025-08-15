@@ -41,5 +41,5 @@ git
 1. **Clonar o repositório**
 
 ```bash
-git clone https://github.com/seuusuario/nome-do-projeto.git
+git clone https://github.com/JoaoDev20/react-com-firebase
 ```
